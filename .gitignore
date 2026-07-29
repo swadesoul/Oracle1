@@ -8,3 +8,7 @@ typechain-types
 # Hardhat files
 cache
 artifacts
+.oracle-npm-cache
+.xdg-config
+.xdg-data
+.xdg-cache
